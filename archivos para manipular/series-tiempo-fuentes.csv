@@ -1,0 +1,53 @@
+dataset_fuente,series_cant,valores_cant,fecha_primer_valor,fecha_ultimo_valor
+Instituto Nacional de Estadística y Censos (INDEC),8700,647906,1910-01-01,2024-04-01
+Ministerio de Hacienda,6868,718334,1940-01-01,2024-04-30
+Ministerio de Seguridad de la Nación. Dirección Nacional de Estadística Criminal.,4000,63964,2000-01-01,2022-01-01
+Banco Central de la República Argentina (BCRA),3837,5525555,1881-01-01,2024-05-16
+Ministerio de Obras Públicas. Secretaría de Gestión Administrativa.Dirección General de Tecnologías de la Información y las Comunicaciones. Dirección Nacional de Transparencia,2810,29974,2009-01-01,2023-04-01
+Ministerio de Producción. Secretaría de la Transformación Productiva. Subsecretaría de Desarrollo y Planeamiento Productivo.,1144,46352,1980-01-01,2019-07-01
+UNCTAD,729,28074,1980-01-01,2022-01-01
+Instituto Nacional de Estadísticas y Censos (INDEC),677,81327,2007-01-01,2024-03-01
+Instituto Argentino de Mercado de Capitales (IAMC),302,366109,2004-10-04,2024-04-18
+Ministerio de Energía y Minería,255,33725,1996-01-01,2024-03-01
+Ministerio de Defensa. Servicio Meteorologico Nacional.,240,105839,2018-11-17,2020-02-02
+Secretaría de Modernización Administrativa,235,9006,2016-07-01,2019-09-01
+Ministerio de Agroindustria,226,661527,1979-01-01,2024-04-16
+Fondo Monetario Internacional (FMI),192,40151,1980-01-01,2017-06-01
+"Ministerio de Trabajo, Empleo y Seguridad Social",129,27586,1965-01-01,2024-05-01
+Secretaría de Asuntos Económicos,115,2996,1935-01-01,1962-01-01
+Ministerio de Turismo y Deportes.,101,3341,2012-01-01,2023-04-01
+CAMMESA,98,6237,2001-01-01,2024-04-01
+Jefatura de Gabinete de Ministros. Secretaría de Innovación Pública.,84,7644,2020-12-01,2021-03-01
+ADEFA,60,10641,1951-01-01,2024-04-01
+Dirección de Estadística e Información en Salud (DEIS). Secretaría de Gobierno de Salud,50,1400,1990-01-01,2022-01-01
+Ministerio de Salud. Área de Seguimiento y Evaluación,49,840,2003-01-01,2020-01-01
+MAGyP,46,2782,1923-01-01,2020-01-01
+Cámara Argentina de Fondos Comunes de Inversión,44,4991,1997-01-01,2024-04-01
+Mercado Abierto Electronico (MAE),41,6236,2017-01-02,2018-11-20
+Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA,39,443,2008-01-01,2019-01-01
+Dirección General de Estadística y Censos - Ministerio de Hacienda GCBA,35,2440,2012-07-01,2024-03-01
+Bancos Centrales,30,403771,1911-01-01,2024-03-31
+Dirección Nacional de Epidemiología y Análisis de la Situación de Salud. Área de Vigilancia.,25,625,1996-01-01,2020-01-01
+CIF - UTDT,23,3214,1998-07-01,2024-04-01
+Ministerio de Economía,21,749,1991-05-01,2023-10-01
+Cámara Argentina del Acero y Boletín Informativo de Techint,21,5969,1960-01-01,2124-01-01
+Administración de Parques Nacionales,21,4095,2008-01-01,2024-03-01
+Dirección Provincial de Estadística y Censos - Provincia de San Luis,20,3172,2005-10-01,2024-03-01
+"BCRA, MAE, Rofex",19,104792,2002-03-05,2024-04-18
+INV,17,102,2012-01-01,2017-01-01
+"Cuenta Satélite de Cultura (DNCN, INDEC y SInCA, Ministerio de Cultura)",10,170,2004-01-01,2020-01-01
+Dirección de Estadísticas e Investigaciones Económicas (DEIE) - Provincia de Mendoza,10,3459,1968-01-01,2024-03-01
+Dirección General de Estadísticas y Censos - Provincia de Córdoba,10,1290,2013-07-01,2024-03-01
+Ministerio de Salud,6,1512,2020-12-29,2021-09-06
+Compilado de múltiples fuentes primarias (ver metadatos de las series),6,10565,2018-01-08,2023-10-21
+Ministerio de Producción y Trabajo. Observatorio de Empleo y Dinámica Empresarial.,4,228,1996-01-01,2018-10-01
+"IGN,INDEC,BAHRA",3,4071,2018-07-17,2022-04-03
+Administración Nacional de la Seguridad Social (ANSES),3,1457,1971-01-01,2024-05-01
+Direcciones de Bosques Provinciales u otros Organismos Provinciales,3,252,2011-01-01,2017-12-01
+MINAGRI,3,540,2005-01-01,2019-12-01
+CIARA-CEC,3,533,2003-01-01,2024-04-01
+"Dirección de Porcinos, Aves de Granja y No Tradicionales",3,376,2010-01-01,2020-06-01
+Dirección Provincial de Estadística y Censos - Provincia de Neuquén,1,269,2001-11-01,2024-03-01
+Dirección Nacional Láctea,1,70,2015-01-01,2020-10-01
+SENASA,1,126,2010-01-01,2020-06-01
+Dirección de Estadísticas de la Provincia de Tucuman,1,613,1968-01-01,2019-01-01
