@@ -1,4 +1,4 @@
-<h1> Transformaciones ETL con Pentaho</h1>
+<h1>  ETL - Pentaho Data Integration (PDI)</h1>
 Este proyecto contiene varias transformaciones ETL realizadas con Pentaho, desarrolladas en el marco del curso de YouTube como parte de un aprendizaje práctico.
 <br/>
 
