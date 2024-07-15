@@ -15,9 +15,9 @@ Manipulacion de archivos INPUT/OUPUT:
 En la carpeta ARCHIVOS PARA MANIPULAR se provee información necesaria para realizar las transformaciones ETL. Esta carpeta contiene los archivos de entrada y ejemplos de archivos de salida.
 
 <h3>Curso de YouTube</h3>
-El curso en el cual se basan estas transformaciones se puede encontrar en la siguiente URL: [Curso de ETL con Pentaho
-](https://www.youtube.com/playlist?list=PLPgjON4ZM0JBdxxDUAfCS84X79e_2CLNQ)
-<br/>
+El curso en el cual se basan estas transformaciones se puede encontrar en la siguiente URL:
+
+- [Curso de ETL con Pentaho](https://www.youtube.com/playlist?list=PLPgjON4ZM0JBdxxDUAfCS84X79e_2CLNQ)
 
 <h3>Documentación de Ayuda</h3>
 Para mayor información y ayuda sobre el uso de Pentaho, se consulto las siguientes documentaciones:
